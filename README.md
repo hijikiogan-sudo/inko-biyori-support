@@ -2,6 +2,6 @@
 
 App Store版「インコ日和」のサポート・プライバシーポリシー・特定商取引法に基づく表記を公開するためのリポジトリです（GitHub Pages）。
 
-- 元の文章はアプリのリポジトリ（非公開）の `support.html`・`privacy.html`・`tokushoho.html`・`legal.css`・`bird.svg` です。文章を直すときはアプリ側を直してから、ここへコピーします。
+- 元の文章はアプリのリポジトリ（非公開）の `support.html`・`privacy.html`・`tokushoho.html`・`legal.css`・`icon-inko-192.png` です。文章を直すときはアプリ側を直してから、ここへコピーします。
 - コピーするとき、ページ下の「アプリを開く」は「トップ」に置き換えます（このサイトにはアプリ本体がないため）。
 - `index.html` はこのサイト専用のトップページです。

@@ -4,7 +4,7 @@
 body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;font-size:16px;line-height:1.8;-webkit-text-size-adjust:100%}
 .wrap{max-width:720px;margin:0 auto;padding:24px 16px 64px}
 header{display:flex;align-items:center;gap:10px;margin-bottom:8px}
-header img{width:40px;height:40px}
+header img{width:40px;height:40px;border-radius:10px}
 header a{color:var(--green);font-weight:700;text-decoration:none}
 h1{font-size:1.5rem;line-height:1.4;margin:16px 0 4px;color:var(--green)}
 .meta{color:var(--muted);font-size:.875rem;margin:0 0 24px}
